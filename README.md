@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 
 [![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=compact&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HelloZZZC/HelloZZZC/output/ocean.gif">
-</picture>
-
+![](https://raw.githubusercontent.com/HelloZZZC/HelloZZZC/output/ocean.gif)
