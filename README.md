@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 [![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=compact&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HelloZZZC/HelloZZZC/output/ocean.gif">
 </picture>
 
