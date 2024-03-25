@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Java、PHP开发者，DevOps爱好者
+- 🔭 掌握的语言：[PHP](https://img.shields.io/badge/-PHP-2496ED?style=flat-square&logo=php&logoColor=FFFFFF)[Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=FFFFFF)[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
 - 🌱 邮箱：zc19940702@gmail.com
-- ⚡ No Code No Bug
+- ⚡ 哲理：No Code No Bug
+
 
 [![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=compact&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
 
