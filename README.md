@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 掌握的语言：![](https://img.shields.io/badge/-PHP-2496ED?style=flat-square&logo=php&logoColor=FFFFFF) ![](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=FFFFFF) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
+- 🤔 运维：![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF) ![](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=FFFFFF)
 - 🌱 邮箱：zc19940702@gmail.com
 - ⚡ 哲理：No Code No Bug
 
