@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 掌握的语言：[PHP](https://img.shields.io/badge/-PHP-2496ED?style=flat-square&logo=php&logoColor=FFFFFF)[Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=FFFFFF)[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
+- 🔭 掌握的语言：[PHP](https://img.shields.io/badge/-PHP-2496ED?style=flat-square&logo=php&logoColor=FFFFFF) [Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=FFFFFF) [Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
 - 🌱 邮箱：zc19940702@gmail.com
 - ⚡ 哲理：No Code No Bug
 
