@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🤔 DevOps：![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF) ![](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=FFFFFF)
 - 😄 使用的工具：![](https://img.shields.io/badge/-pycharm-609926?style=flat-square&logo=pycharm&logoColor=FFFFFF) ![](https://img.shields.io/badge/-phpstorm-7F7FFF?style=flat-square&logo=phpstorm&logoColor=FFFFFF) ![](https://img.shields.io/badge/-intellijidea-FF3900?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
 - 👯 熟悉的前端：![](https://img.shields.io/badge/-vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=FFFFFF) ![](https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=FFFFFF) ![](https://img.shields.io/badge/-css3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
-- 🌱 邮箱：zc19940702@gmail.com
+- 📫 使用的中间件：![](https://img.shields.io/badge/-redis-DC382D?style=flat-square&logo=redis&logoColor=FFFFFF) ![](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF) ![](https://img.shields.io/badge/-mongodb-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF) ![](https://img.shields.io/badge/-apacherocketmq-D77310?style=flat-square&logo=apacherocketmq&logoColor=FFFFFF) ![](https://img.shields.io/badge/-rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=FFFFFF) ![](https://img.shields.io/badge/-elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=FFFFFF)
+- 🌱 谷歌邮箱：zc19940702@gmail.com
 - ⚡ 哲理：No Code No Bug
 
 
