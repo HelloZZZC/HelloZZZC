@@ -24,7 +24,4 @@ Here are some ideas to get you started:
 - 🌱 谷歌邮箱：zc19940702@gmail.com
 - ⚡ 哲理：No Code No Bug
 
-
-[![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=compact&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://raw.githubusercontent.com/HelloZZZC/HelloZZZC/output/ocean.gif)
