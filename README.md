@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ### Just So So 🌱
 <a href="https://github.com/HelloZZZC/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=donut-vertical&theme=radical&hide=html,blade" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelloZZZC" />
 </a>
 <a href="https://github.com/HelloZZZC/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloZZZC&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=donut-vertical&theme=radical&hide=html,blade" />
 </a>
 
