@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/HelloZZZC/HelloZZZC/output/ocean.gif)
 
 ### My Use 🌱
-[![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=compact&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
+[![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=donut-vertical&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
 
