@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/HelloZZZC/HelloZZZC/output/ocean.gif)
 
-### My Use 🌱
-[![HelloZZZC](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=donut-vertical&theme=radical&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
+### Just So So 🌱
+<a href="https://github.com/HelloZZZC/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloZZZC&layout=donut-vertical&theme=radical&hide=html,blade" />
+</a>
+<a href="https://github.com/HelloZZZC/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloZZZC&layout=compact&langs_count=8&card_width=320" />
+</a>
 
